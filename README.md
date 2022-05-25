@@ -42,7 +42,7 @@ Build out this card component and get it looking as close to the design as possi
 
 ### What I learned
 
-- Make overlay over an image.
+- Make an overlay over an image.
 
 
 ### Useful resources
