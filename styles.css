@@ -50,7 +50,7 @@ img {
 .container {
     background-color: hsl(244, 38%, 16%);
     border-radius: 8px;
-    margin: 13%;
+    margin: 250px auto;
     width: 57%;
     padding: 3%;
     position: relative;
