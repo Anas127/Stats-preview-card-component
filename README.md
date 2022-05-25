@@ -29,7 +29,7 @@ Build out this card component and get it looking as close to the design as possi
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: ([https://your-solution-url.com](https://anas127.github.io/Stats-preview-card-component/))
 - Live Site URL: (https://anas127.github.io/Anas-Bahraoui/)
 
 ## My process
