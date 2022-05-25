@@ -55,3 +55,4 @@ Build out this card component and get it looking as close to the design as possi
 - Website - [Anas Bahraoui](https://anas127.github.io/Anas-Bahraoui/)
 - Frontend Mentor - [@Anas127](https://www.frontendmentor.io/profile/Anas127)
 - LinkedIn - (www.linkedin.com/in/anas-bahraoui)
+

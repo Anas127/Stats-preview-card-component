@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    background-color: hsl(233, 47%, 7%);
+    
+}
+
+h1 {
+    color: hsl(0, 0%, 100%);
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    display: inline-block;
+    width: 35%;
+}
+
+
+p {
+    color: hsla(0, 0%, 100%, 0.6);
+    font-family: 'Lexend Deca', sans-serif;
+    display: inline-block;
+    width: 38%;
+   
+}
+
+
+h3 {
+    color: hsl(0, 0%, 100%);
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    display: inline-block;
+    margin: 15px 40px 15px 5px;
+}
+
+span {
+    color: hsl(277, 64%, 61%);
+    
+}
+
+img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    width: 40.4%;
+    
+}
+
+
+.container {
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 8px;
+    margin: 13%;
+    width: 57%;
+    padding: 3%;
+    position: relative;
+ 
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 40.4%;
+    background: hsl(277, 64%, 61%);
+    opacity: .6;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.stats {
+    color: hsla(0, 0%, 100%, 0.6);
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+}
+
